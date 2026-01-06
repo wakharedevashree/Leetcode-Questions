@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0724-find-pivot-index) |
+| [1470-shuffle-the-array](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
