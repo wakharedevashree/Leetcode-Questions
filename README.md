@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0414-third-maximum-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0283-move-zeroes) |
 ## Math
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0414-third-maximum-number) |
 ## Binary Search
