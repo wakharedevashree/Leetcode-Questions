@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0169-majority-element) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -85,5 +87,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
