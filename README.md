@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0414-third-maximum-number) |
 ## Binary Search
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0867-transpose-matrix) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
