@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0867-transpose-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
@@ -100,8 +101,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
