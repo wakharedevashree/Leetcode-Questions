@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0867-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -155,4 +158,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
