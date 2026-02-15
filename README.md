@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -178,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0912-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
