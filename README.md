@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
