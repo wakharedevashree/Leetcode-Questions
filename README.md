@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0724-find-pivot-index) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
