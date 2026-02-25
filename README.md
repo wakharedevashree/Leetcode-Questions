@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0242-valid-anagram) |
@@ -224,4 +226,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
