@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -231,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
