@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
