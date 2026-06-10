@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0075-sort-colors) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0242-valid-anagram) |
