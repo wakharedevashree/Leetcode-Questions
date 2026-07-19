@@ -275,4 +275,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0610-triangle-judgement) |
+| [0627-swap-sex-of-employees](https://github.com/wakharedevashree/Leetcode-Questions/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
